@@ -13,6 +13,7 @@ To write a Python program to convert the number **16** into its **binary represe
 a=16 
 print(bin(a)
 ```
+
 ## Output
 ![image](https://github.com/user-attachments/assets/5aa70293-8549-43eb-948c-5d4b9a1a48ac)
 
